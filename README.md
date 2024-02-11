@@ -2,6 +2,42 @@
 Autoplays videos to generate income from multiple video earning websites like payup,buxmoney,workercash etc.
 The script takes screenshots and finds the location and then moves the mouse to click. 
 
+## Prerequisites:
+You will need to have linux OS along with docker installed.
+
+## Download and run the script
+Run the following commands
+```
+wget https://github.com/videoearn/videoearner/archive/refs/heads/main.zip
+unzip main.zip
+cd videoearner-main
+vi properties.conf
+```
+Edit the properties.conf file by adding your cap.guru API key. 
+You will get 300 free captchas on sign up. Make sure to recharge after 300 captchas.
+
+To start the script run the following command
+```
+sudo bash videoEarner.sh --start
+```
+
+After starting the script, you can access the localhost url on the same linux machine if you are using GUI.
+If you are only using terminal, run the following command to generate global URL using the port number.
+If your port number is 3000, run the following command. Replace the port number accordingly based on the output shown in your console.
+
+```
+ssh -R 80:localhost:3000 serveo.net 
+```
+Access the URL to login and click start to open the video page and leave it. 
+The videos play automatically and captchas are also solved. 
+Just keep watching the videos and stop it manually when completed. 
+
+To stop the script run the following command
+```
+sudo bash videoEarner.sh --delete
+```
+
+## FAQ
 
 #### Why was this script written?
 *This script was created solely to solicit funds, not for the purpose of gaining fame or publicity.
