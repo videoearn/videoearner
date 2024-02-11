@@ -1,5 +1,6 @@
 # VideoEarner
 Autoplays videos to generate income from multiple video earning websites like payup,buxmoney,workercash etc.
+The script takes screenshots and finds the location to click. 
 
 
 #### Why was this script written?
