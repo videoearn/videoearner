@@ -1,10 +1,10 @@
 # VideoEarner
 Autoplays videos to generate income from multiple video earning websites like payup,buxmoney,workercash etc.
-The script takes screenshots and finds the location to click. 
+The script takes screenshots and finds the location and then moves the mouse to click. 
 
 
 #### Why was this script written?
-*This script was created solely to solicit donations, not for the purpose of gaining fame or publicity.
+*This script was created solely to solicit funds, not for the purpose of gaining fame or publicity.
 Many individuals have sought browser-based automation.
 If you appreciate the script and have profited from it, please consider sending funds to the following address.*
 
