@@ -19,7 +19,7 @@ Manual login after initiating the script is deliberate to prevent misuse on webs
 #### Does it harm websites?
 *The script merely automates the human process of clicking.
 You can continue watching videos while the script plays them automatically.
-It does not bypass the standard process without viewing videos.*
+It does not bypass the standard process without viewing videos although it can be done by sending postMessage.*
 
 #### Note:
 The [browser code](https://github.com/chromium/chromium) is open-source, allowing users to detect any malicious code or spying activities or privacy violations within the browser. It can be customized extensively before data leaves the network. However, customizing it according to specific requirements demands substantial prior knowledge, time, and effort.
