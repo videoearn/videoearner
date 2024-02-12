@@ -31,6 +31,7 @@ ssh -R 80:localhost:3000 serveo.net
 Access the URL to login and click start to open the video page and leave it. 
 The videos play automatically and captchas are also solved. 
 Just keep watching the videos and stop it manually when completed. 
+To use to proxy, you can install Foxyproxy extension in chrome.
 
 To stop the script run the following command
 ```
