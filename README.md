@@ -45,6 +45,8 @@ sudo bash videoEarner.sh --delete
 Many individuals have sought browser-based automation.
 If you appreciate the script and have profited from it, please consider sending funds to the following address.*
 
+TRX/USDT(TRC-20): TRZNra2p4FfvoivuCxzUNfaNxEWAhWGvVD
+
 #### What does the script do?
 *The script automates video playback and utilizes an external captcha solver to resolve captchas. 
 The Captcha Solver offers 300 free captchas upon signup. You can input the API key in the file and commence the script.
