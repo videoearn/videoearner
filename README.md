@@ -2,6 +2,12 @@
 Autoplays videos to generate income from multiple video earning websites like payup,buxmoney,workercash etc.
 The script takes screenshots and finds the location and then moves the mouse to click. 
 
+## Sign Up links below
+* [payupVideo](http://tinyurl.com/w4eeuthv)
+* [buxMoney](http://tinyurl.com/2pseckza)
+* [workerCash](http://tinyurl.com/2s48yyp6)
+* [capGuru](http://tinyurl.com/yp2uz7km) (300 free captchas on sign up)
+
 ## Prerequisites:
 You will need to have linux OS along with docker installed.
 
