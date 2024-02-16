@@ -5,6 +5,9 @@ The script takes screenshots and finds the location and then moves the mouse to 
 ## Prerequisites:
 You will need to have linux OS along with docker installed.
 
+For Windows users, paid version of chrome extension is available.  Please find the link [here](http://tinyurl.com/yckhaf3d)
+
+
 ## Download and run the script
 Run the following commands
 ```
@@ -43,10 +46,7 @@ sudo bash videoEarner.sh --delete
 #### Why was this script written?
 *This script was created solely to solicit funds, not for the purpose of gaining fame or publicity.
 Many individuals have sought browser-based automation.
-If you appreciate the script and have profited from it, please consider sending funds to the following address.*
-
-[Click here to make payment using crypto](http://tinyurl.com/yckhaf3d)
-
+To get the standalone chrome extension. Click the link [here](http://tinyurl.com/yckhaf3d)*
 
 #### What does the script do?
 *The script automates video playback and utilizes an external captcha solver to resolve captchas. 
