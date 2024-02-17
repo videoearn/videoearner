@@ -1,7 +1,7 @@
 # VideoEarner
 Autoplays videos to generate income from multiple video earning websites like payup,buxmoney,workercash etc.
 The script takes screenshots and finds the location and then moves the mouse to click. 
-The script works for english language only at the moment.You have to select engligh language after signing into the websites.
+The script works for english language only at the moment.You have to select english language after signing into the websites.
 
 ## Sign Up links below
 * [payupVideo](http://tinyurl.com/w4eeuthv)
