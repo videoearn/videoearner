@@ -16,6 +16,8 @@ For **Windows** users, a paid version of chrome extension is available.
 The instructions are completely different and are mentioned along with screenshots in the downloaded file.
 Please find the link [here](http://tinyurl.com/yckhaf3d)
 
+## Demo:
+[screen-capture (7).webm](https://github.com/videoearn/videoearner/assets/159670470/267d3018-6242-4df4-a5d8-e238d6ff15cc)
 
 ## Download and run the script
 Run the following commands
@@ -43,6 +45,7 @@ ssh -R 80:localhost:3000 serveo.net
 Access the URL to login and click start to open the video page and leave it. 
 The videos play automatically and captchas are also solved. 
 Just keep watching the videos and stop it manually when completed. 
+Set the resolution to low, if your internet speed is slow.
 To use to proxy, you can install Foxyproxy extension in chrome.
 
 To stop the script run the following command
