@@ -13,7 +13,7 @@ The script works for english language only at the moment.You have to select engl
 You will need to have linux OS along with docker installed.
 
 For **Windows** users, a paid version of chrome extension is available.
-The instructions are completely different and are mentioned in the downloaded file.
+The instructions are completely different and are mentioned along with screenshots in the downloaded file.
 Please find the link [here](http://tinyurl.com/yckhaf3d)
 
 
