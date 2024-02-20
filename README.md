@@ -12,7 +12,9 @@ The script works for english language only at the moment.You have to select engl
 ## Prerequisites:
 You will need to have linux OS along with docker installed.
 
-A paid version of chrome extension is available for both windows and linux users.  Please find the link [here](http://tinyurl.com/yckhaf3d)
+For **Windows** users, a paid version of chrome extension is available.
+The instructions are completely different and are mentioned in the downloaded file.
+Please find the link [here](http://tinyurl.com/yckhaf3d)
 
 
 ## Download and run the script
