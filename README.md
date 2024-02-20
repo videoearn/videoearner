@@ -17,7 +17,7 @@ The instructions are completely different and are mentioned along with screensho
 Please find the link [here](http://tinyurl.com/yckhaf3d)
 
 ## Demo:
-[screen-capture (7).webm](https://github.com/videoearn/videoearner/assets/159670470/267d3018-6242-4df4-a5d8-e238d6ff15cc)
+[video1.webm](https://github.com/videoearn/videoearner/assets/159670470/fc066c96-37fc-4f9e-b124-eb3a49b78ef4)
 
 ## Download and run the script
 Run the following commands
