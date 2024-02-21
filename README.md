@@ -7,7 +7,7 @@ The script works for english language only at the moment.You have to select engl
 * [payupVideo](http://tinyurl.com/w4eeuthv)
 * [buxMoney](http://tinyurl.com/2pseckza)
 * [workerCash](http://tinyurl.com/2s48yyp6)
-* [capGuru](http://tinyurl.com/yp2uz7km) (300 free captchas on sign up)
+* [capGuru](http://tinyurl.com/yp2uz7km) 
 
 ## Prerequisites:
 You will need to have linux OS along with docker installed.
@@ -28,7 +28,7 @@ cd videoearner-main
 vi properties.conf
 ```
 Edit the properties.conf file by adding your cap.guru API key. 
-You will get 300 free captchas on sign up. Make sure to recharge after 300 captchas.
+Make sure to recharge your capguru account to be able to solve captchas. 
 
 To start the script run the following command
 ```
@@ -62,7 +62,7 @@ To get the standalone chrome extension. Click the link [here](http://tinyurl.com
 
 #### What does the script do?
 *The script automates video playback and utilizes an external captcha solver to resolve captchas. 
-The Captcha Solver offers 300 free captchas upon signup. You can input the API key in the file and commence the script.
+You can input the API key in the file and commence the script.
 Manual login after initiating the script is deliberate to prevent misuse on websites.*
 
 #### Does it harm websites?
